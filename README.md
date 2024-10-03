@@ -19,6 +19,6 @@ To get started with OpenNIPS, follow the steps below to set up and configure the
 Ensure that your system meets the following requirements:
 
 - **Operating System**: Linux (Ubuntu, CentOS, etc.)
-- **Python**: Version 3.7 or above
+- **Python**: Version 3.12 or above
 - **Packet Capture Libraries**: `libpcap` or `tcpdump`
 - **Git**: Installed and configured
